@@ -20,3 +20,9 @@ body {
 .tracker {
     border: 1px solid hotpink
 }
+
+.button {
+    background: none;
+    color: white;
+    border: none;
+}
