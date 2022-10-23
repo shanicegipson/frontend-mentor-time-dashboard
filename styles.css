@@ -1,0 +1,9 @@
+.root-container {
+    display: flex;
+    border: 1px solid black;
+}
+
+.user-profile {
+    display: flex;
+    flex-direction: column;
+}
