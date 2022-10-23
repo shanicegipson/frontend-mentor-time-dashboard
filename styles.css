@@ -19,24 +19,28 @@ body {
 .user-info {
     padding: 40px 20px;
     background-color: rgba(73, 26, 226);
-    border-radius: 8px;
+    border-radius: 15px;
     z-index: 10;
 }
 
 .report {
     margin: 0;
+    padding-top: 20px;
 }
 
 .user-name {
     font-size: 28px;
     margin: auto;
+    padding-bottom: 30px;
 }
 
 .user-scheadule {
     background-color: blueviolet;
-    padding: 20px;
+    padding: 30px 20px;
     border-radius: 9px;
     position: relative;
+    display: flex;
+    flex-direction: column;
     top: -17px;
 }
 
