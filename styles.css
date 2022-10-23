@@ -6,7 +6,6 @@ body {
 .root-container {
     display: flex;
     margin: 0 auto;
-    border: 1px solid black;
 }
 
 .user-profile {
@@ -18,7 +17,8 @@ body {
 }
 
 .tracker {
-    border: 1px solid hotpink
+    display: flex;
+    border: 1px solid teal;
 }
 
 .button {
